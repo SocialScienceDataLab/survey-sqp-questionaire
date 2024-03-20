@@ -9,7 +9,7 @@ Lydia Repke
 
 Designing questionnaires is said to be an art. It involves knowledge and experience. To make this a more scientific activity, Saris and colleagues developed a practical hands-on tool called "Survey Quality Predictor" (SQP). SQP is an open-access web-based program that predicts the quality of survey questions for continuous latent variables based on the linguistic and formal characteristics of the survey item (e.g., the properties of the answer scale). The underlying prediction algorithm was derived from a meta-analysis of many multitrait-multimethod (MTMM) experiments with more than 6,000 survey questions in 28 languages and 33 countries. SQP is not intended to replace cognitive pretesting, expert review, or web probing techniques. Instead, it is a complementary tool to help researchers in the development phase of new questionnaires in national and international survey projects. In this workshop, I will show how researchers can use SQP 3.0 to find survey questions for their questionnaires, improve their questions before data collection, and identify discrepancies between the source and translated versions of a survey question.
 
-📝 [Slides](https://github.com/SocialScienceDataLab/survey-sgp-questionaire/blob/main/.pdf)
+📝 [Slides](https://github.com/SocialScienceDataLab/survey-sgp-questionaire/blob/main/Lydia%20Repke%20-%20Survey%20Mastery%20-%20A%20Deep%20Dive%20Into%20SQP%203.0%20to%20Enhance%20Questionnaire%20Development.pdf)
 
 ## About the Instructors
 
